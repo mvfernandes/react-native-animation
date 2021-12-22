@@ -24,4 +24,5 @@ export const TextStyled = styled.Text<{ color: ButtonComponentProps['color'] }>`
     css`
       color: ${theme.colors[color]};
     `}
+    font-family: 'Nunito-Regular';
 `;
