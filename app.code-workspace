@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "**/Thumbs.db": true,
+      "node_modules": true,
+      "android": true,
+      "ios": true,
+      ".buckconfig": true,
+      ".editorconfig": true,
+      ".eslintrc.js": true,
+      ".gitattributes": true,
+      ".prettierrc.js": true,
+      "app.json": true,
+      "index.js": true,
+      "metro.config.js": true,
+      "babel.config.js": true,
+      "tsconfig.json": true,
+      "yarn.lock": true,
+      ".watchmanconfig": true,
+      ".gitignore": true,
+      "app.code-workspace": true
+    }
+  }
+}
